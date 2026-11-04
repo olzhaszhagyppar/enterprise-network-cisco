@@ -1,8 +1,12 @@
 # Multi-Site Enterprise Network Simulation
 
 An individual university project developed in Cisco Packet Tracer for the Networking and Communication module at Coventry University Kazakhstan.
+## Network Topology
+
+![Enterprise Network Topology](network-topology.png)
 
 The project simulates a corporate network connecting two branches in **Astana and Almaty**, with departmental network segmentation, dynamic routing, and gateway redundancy.
+
 
 ## Network Architecture
 
