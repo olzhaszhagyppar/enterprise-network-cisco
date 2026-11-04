@@ -51,13 +51,9 @@ Cisco CLI outputs confirmed:
 End-to-end connectivity, DHCP lease allocation, and automatic failover have not yet been fully verified.
 ### CLI Verification Screenshots
 
-**OSPF Neighbors**
+**OSPF Neighbors and HSRP Status**
 
-![OSPF Neighbors](ospf-neighbors.png)
-
-**HSRP Status**
-
-![HSRP Status](hsrp-status.png)
+![OSPF and HSRP](show%20ip%20ospf%20neighbor-show%20standby%20brief.png)
 
 **Routing Table**
 
