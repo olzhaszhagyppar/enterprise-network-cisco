@@ -49,7 +49,19 @@ Cisco CLI outputs confirmed:
 - Four active HSRP groups with standby peers.
 
 End-to-end connectivity, DHCP lease allocation, and automatic failover have not yet been fully verified.
+### CLI Verification Screenshots
 
+**OSPF Neighbors**
+
+![OSPF Neighbors](ospf-neighbors.png)
+
+**HSRP Status**
+
+![HSRP Status](hsrp-status.png)
+
+**Routing Table**
+
+![Routing Table](routing-table.png)
 ## Project File
 
 [Download the Cisco Packet Tracer simulation](Olzhas%20epn.pkt)
